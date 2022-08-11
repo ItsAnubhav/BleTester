@@ -1,0 +1,63 @@
+com.itsanubhav.bletester.app-lifecycle-livedata-core-2.5.1-0 C:\Users\Anubhav\.gradle\caches\transforms-3\005eee395687eb99bf0e42773102584a\transformed\lifecycle-livedata-core-2.5.1\res
+com.itsanubhav.bletester.app-core-ktx-1.8.0-1 C:\Users\Anubhav\.gradle\caches\transforms-3\04d9d052def3677db7057f3a46dba899\transformed\core-ktx-1.8.0\res
+com.itsanubhav.bletester.app-sqlite-framework-2.3.0-alpha03-2 C:\Users\Anubhav\.gradle\caches\transforms-3\097ad53fe7c55767fcbe167a059b4cc9\transformed\sqlite-framework-2.3.0-alpha03\res
+com.itsanubhav.bletester.app-lifecycle-runtime-2.5.1-3 C:\Users\Anubhav\.gradle\caches\transforms-3\10f09b059044c96951a49dcf82c671d5\transformed\lifecycle-runtime-2.5.1\res
+com.itsanubhav.bletester.app-annotation-experimental-1.1.0-4 C:\Users\Anubhav\.gradle\caches\transforms-3\17a4ddc073417856fa16821b5beda4b2\transformed\annotation-experimental-1.1.0\res
+com.itsanubhav.bletester.app-drawerlayout-1.1.1-5 C:\Users\Anubhav\.gradle\caches\transforms-3\1903df6827bb569e022eb70647a775c3\transformed\drawerlayout-1.1.1\res
+com.itsanubhav.bletester.app-fragment-ktx-1.5.1-6 C:\Users\Anubhav\.gradle\caches\transforms-3\23d9fdfc31e5ab4a5b153fca1180a956\transformed\fragment-ktx-1.5.1\res
+com.itsanubhav.bletester.app-activity-ktx-1.5.1-7 C:\Users\Anubhav\.gradle\caches\transforms-3\2555ec186427327f11ff7197b7d48476\transformed\activity-ktx-1.5.1\res
+com.itsanubhav.bletester.app-lifecycle-process-2.4.0-8 C:\Users\Anubhav\.gradle\caches\transforms-3\278d8bb24d8222ad024baa9446b7a700\transformed\lifecycle-process-2.4.0\res
+com.itsanubhav.bletester.app-emoji2-1.0.0-9 C:\Users\Anubhav\.gradle\caches\transforms-3\2df552b7308cef89a4a9e83ed510e90d\transformed\emoji2-1.0.0\res
+com.itsanubhav.bletester.app-navigation-fragment-ktx-2.5.1-10 C:\Users\Anubhav\.gradle\caches\transforms-3\306cbe1b7a73badbe35f29cbdf6d6d77\transformed\navigation-fragment-ktx-2.5.1\res
+com.itsanubhav.bletester.app-appcompat-resources-1.4.2-11 C:\Users\Anubhav\.gradle\caches\transforms-3\355ba3cc5460f09d1c9031c5083f04d4\transformed\appcompat-resources-1.4.2\res
+com.itsanubhav.bletester.app-constraintlayout-2.1.4-12 C:\Users\Anubhav\.gradle\caches\transforms-3\35ab6cd622fda13c1370df4617aa47f7\transformed\constraintlayout-2.1.4\res
+com.itsanubhav.bletester.app-lifecycle-livedata-core-ktx-2.5.1-13 C:\Users\Anubhav\.gradle\caches\transforms-3\3a239cec9eb69ef0171eca06e8a18f84\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.itsanubhav.bletester.app-lifecycle-viewmodel-2.5.1-14 C:\Users\Anubhav\.gradle\caches\transforms-3\3aa989854e98958535bc34f1195d0f2c\transformed\lifecycle-viewmodel-2.5.1\res
+com.itsanubhav.bletester.app-fragment-1.5.1-15 C:\Users\Anubhav\.gradle\caches\transforms-3\40c897815e8dde9f772f806d14fe35a3\transformed\fragment-1.5.1\res
+com.itsanubhav.bletester.app-cardview-1.0.0-16 C:\Users\Anubhav\.gradle\caches\transforms-3\491661331736b39a67cff799c2131dd6\transformed\cardview-1.0.0\res
+com.itsanubhav.bletester.app-activity-1.5.1-17 C:\Users\Anubhav\.gradle\caches\transforms-3\49f04d1b4c3d0806af569e8f947ac2d8\transformed\activity-1.5.1\res
+com.itsanubhav.bletester.app-room-paging-2.5.0-alpha02-18 C:\Users\Anubhav\.gradle\caches\transforms-3\4d7904a7c98d68fef49c2ea98966f7c4\transformed\room-paging-2.5.0-alpha02\res
+com.itsanubhav.bletester.app-core-1.8.0-19 C:\Users\Anubhav\.gradle\caches\transforms-3\5585a9b391ab73f75d1381ed9e5fe126\transformed\core-1.8.0\res
+com.itsanubhav.bletester.app-appcompat-1.4.2-20 C:\Users\Anubhav\.gradle\caches\transforms-3\5d37e8f7252d239569e3fc3d0f3d9927\transformed\appcompat-1.4.2\res
+com.itsanubhav.bletester.app-lifecycle-livedata-ktx-2.5.1-21 C:\Users\Anubhav\.gradle\caches\transforms-3\5dac0df8b98572751d37ad6eb32d6bcd\transformed\lifecycle-livedata-ktx-2.5.1\res
+com.itsanubhav.bletester.app-transition-1.4.1-22 C:\Users\Anubhav\.gradle\caches\transforms-3\67df4bd32ad24e28b41a4d79f4ee7683\transformed\transition-1.4.1\res
+com.itsanubhav.bletester.app-savedstate-1.2.0-23 C:\Users\Anubhav\.gradle\caches\transforms-3\69db02238fda919512881c29cc25dbac\transformed\savedstate-1.2.0\res
+com.itsanubhav.bletester.app-window-1.0.0-24 C:\Users\Anubhav\.gradle\caches\transforms-3\6b4d909105f6825405dd545d67c78a66\transformed\window-1.0.0\res
+com.itsanubhav.bletester.app-sqlite-2.3.0-alpha03-25 C:\Users\Anubhav\.gradle\caches\transforms-3\6dc5b5e7835c3cd3d767a9255d31e7b6\transformed\sqlite-2.3.0-alpha03\res
+com.itsanubhav.bletester.app-slidingpanelayout-1.2.0-26 C:\Users\Anubhav\.gradle\caches\transforms-3\6efe2e22f47d3c61824477da438c9700\transformed\slidingpanelayout-1.2.0\res
+com.itsanubhav.bletester.app-coordinatorlayout-1.1.0-27 C:\Users\Anubhav\.gradle\caches\transforms-3\74953a94134760cca5acdb45f9dbd655\transformed\coordinatorlayout-1.1.0\res
+com.itsanubhav.bletester.app-startup-runtime-1.0.0-28 C:\Users\Anubhav\.gradle\caches\transforms-3\7e3680832ea0ffb257050d922acc9578\transformed\startup-runtime-1.0.0\res
+com.itsanubhav.bletester.app-navigation-ui-2.5.1-29 C:\Users\Anubhav\.gradle\caches\transforms-3\860282516fcc4b456fc066172edcb130\transformed\navigation-ui-2.5.1\res
+com.itsanubhav.bletester.app-emoji2-views-helper-1.0.0-30 C:\Users\Anubhav\.gradle\caches\transforms-3\86724f7731071b14660c5c04637f6688\transformed\emoji2-views-helper-1.0.0\res
+com.itsanubhav.bletester.app-navigation-common-ktx-2.5.1-31 C:\Users\Anubhav\.gradle\caches\transforms-3\86df3ab67525b16c94ebdcae88a7c73d\transformed\navigation-common-ktx-2.5.1\res
+com.itsanubhav.bletester.app-material-1.6.1-32 C:\Users\Anubhav\.gradle\caches\transforms-3\877395734d4466a2e228c47f9c13a52f\transformed\material-1.6.1\res
+com.itsanubhav.bletester.app-room-ktx-2.5.0-alpha02-33 C:\Users\Anubhav\.gradle\caches\transforms-3\8c0fbf69ec3a92362518cb8e57face6e\transformed\room-ktx-2.5.0-alpha02\res
+com.itsanubhav.bletester.app-navigation-ui-ktx-2.5.1-34 C:\Users\Anubhav\.gradle\caches\transforms-3\8cb060f217aaa3bd7a5cb72adb659798\transformed\navigation-ui-ktx-2.5.1\res
+com.itsanubhav.bletester.app-lifecycle-viewmodel-ktx-2.5.1-35 C:\Users\Anubhav\.gradle\caches\transforms-3\974faefbb8d0da5a61418c295e1cfac1\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.itsanubhav.bletester.app-room-runtime-2.5.0-alpha02-36 C:\Users\Anubhav\.gradle\caches\transforms-3\98f41a60ff26639853f260cf53c91c1b\transformed\room-runtime-2.5.0-alpha02\res
+com.itsanubhav.bletester.app-datastore-1.0.0-37 C:\Users\Anubhav\.gradle\caches\transforms-3\9c9c9514e8a27b486558ef9a3423a198\transformed\datastore-1.0.0\res
+com.itsanubhav.bletester.app-blazeaidl-release-38 C:\Users\Anubhav\.gradle\caches\transforms-3\9ce3c152366a8a68a77afb93b3a93fb3\transformed\blazeaidl-release\res
+com.itsanubhav.bletester.app-work-runtime-ktx-2.7.1-39 C:\Users\Anubhav\.gradle\caches\transforms-3\aa62d1f9013abeeecec9926d2180aedd\transformed\work-runtime-ktx-2.7.1\res
+com.itsanubhav.bletester.app-navigation-fragment-2.5.1-40 C:\Users\Anubhav\.gradle\caches\transforms-3\aa923d55e0e96146c5b2d3ecfdf4c9a5\transformed\navigation-fragment-2.5.1\res
+com.itsanubhav.bletester.app-viewpager2-1.0.0-41 C:\Users\Anubhav\.gradle\caches\transforms-3\ad015cd6ad3e19e5781a85cabbcc0e86\transformed\viewpager2-1.0.0\res
+com.itsanubhav.bletester.app-blazelibrary-release-42 C:\Users\Anubhav\.gradle\caches\transforms-3\b9177847a1ac42c89393434a6b4c7585\transformed\blazelibrary-release\res
+com.itsanubhav.bletester.app-lifecycle-runtime-ktx-2.5.1-43 C:\Users\Anubhav\.gradle\caches\transforms-3\c7e54329db32a951bf26df1946a38189\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.itsanubhav.bletester.app-savedstate-ktx-1.2.0-44 C:\Users\Anubhav\.gradle\caches\transforms-3\cc7f74fa064b04a963787473e0b9daab\transformed\savedstate-ktx-1.2.0\res
+com.itsanubhav.bletester.app-navigation-common-2.5.1-45 C:\Users\Anubhav\.gradle\caches\transforms-3\cf0908e8229ab5a45beb476ae03a7dcc\transformed\navigation-common-2.5.1\res
+com.itsanubhav.bletester.app-sonic-46 C:\Users\Anubhav\.gradle\caches\transforms-3\cf2029d6007706e6dadca7bc3b3c2743\transformed\sonic\res
+com.itsanubhav.bletester.app-datastore-preferences-1.0.0-47 C:\Users\Anubhav\.gradle\caches\transforms-3\d6030bcff059de31c16dc793ff27d1ad\transformed\datastore-preferences-1.0.0\res
+com.itsanubhav.bletester.app-work-runtime-2.7.1-48 C:\Users\Anubhav\.gradle\caches\transforms-3\dcee1197f00d48a87a524b471f9ee497\transformed\work-runtime-2.7.1\res
+com.itsanubhav.bletester.app-navigation-runtime-ktx-2.5.1-49 C:\Users\Anubhav\.gradle\caches\transforms-3\dec7ec9eb59330600a152fe12364a13f\transformed\navigation-runtime-ktx-2.5.1\res
+com.itsanubhav.bletester.app-navigation-runtime-2.5.1-50 C:\Users\Anubhav\.gradle\caches\transforms-3\e21f5ebae0ff9720792dbe11aed79105\transformed\navigation-runtime-2.5.1\res
+com.itsanubhav.bletester.app-lifecycle-livedata-2.5.1-51 C:\Users\Anubhav\.gradle\caches\transforms-3\f1b631a9ad3b2b1c183de78c1a766fa1\transformed\lifecycle-livedata-2.5.1\res
+com.itsanubhav.bletester.app-lifecycle-viewmodel-savedstate-2.5.1-52 C:\Users\Anubhav\.gradle\caches\transforms-3\f1dd5eea5b71889e69f9a4b21ed3ecdb\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.itsanubhav.bletester.app-recyclerview-1.1.0-53 C:\Users\Anubhav\.gradle\caches\transforms-3\f90468bae518ad5e8e3476dc3a8becc5\transformed\recyclerview-1.1.0\res
+com.itsanubhav.bletester.app-pngs-54 D:\Projects\New folder\BleTester\app\build\generated\res\pngs\debug
+com.itsanubhav.bletester.app-resValues-55 D:\Projects\New folder\BleTester\app\build\generated\res\resValues\debug
+com.itsanubhav.bletester.app-rs-56 D:\Projects\New folder\BleTester\app\build\generated\res\rs\debug
+com.itsanubhav.bletester.app-packageDebugResources-57 D:\Projects\New folder\BleTester\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.itsanubhav.bletester.app-packageDebugResources-58 D:\Projects\New folder\BleTester\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.itsanubhav.bletester.app-merged_res-59 D:\Projects\New folder\BleTester\app\build\intermediates\merged_res\debug
+com.itsanubhav.bletester.app-debug-60 D:\Projects\New folder\BleTester\app\src\debug\res
+com.itsanubhav.bletester.app-main-61 D:\Projects\New folder\BleTester\app\src\main\res
+com.itsanubhav.bletester.app-packaged_res-62 D:\Projects\New folder\BleTester\blesdk_1963\build\intermediates\packaged_res\debug

@@ -42,15 +42,15 @@ class ScannerRVAdapter(
     }
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
-        holder.deviceName.text = deviceNameList[position]
-        holder.deviceMac.text = deviceAddressList[position]
+        holder.deviceName.text = deviceNameList[holder.adapterPosition]
+        holder.deviceMac.text = deviceAddressList[holder.adapterPosition]
         holder.itemView.setOnClickListener(object : View.OnClickListener{
             override fun onClick(view: View?) {
                 val sharedPreferences: SharedPreferences =
                     mContext.getSharedPreferences("MySharedPref", MODE_PRIVATE)
                 val editor = sharedPreferences.edit();
-                editor.putString("deviceAddress",deviceAddressList[position])
-                editor.putString("deviceName",deviceNameList[position])
+                editor.putString("deviceAddress",deviceAddressList[holder.adapterPosition])
+                editor.putString("deviceName",deviceNameList[holder.adapterPosition])
                 editor.apply()
 
                 val intent = Intent(mContext,MainActivity::class.java)

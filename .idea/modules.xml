@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BleTester.iml" filepath="$PROJECT_DIR$/.idea/modules/BleTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BleTester.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BleTester.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BleTester.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BleTester.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BleTester.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BleTester.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BleTester.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BleTester.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.iml" filepath="$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.main.iml" filepath="$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/blesdk_1963/BleTester.blesdk_1963.unitTest.iml" />
+    </modules>
+  </component>
+</project>

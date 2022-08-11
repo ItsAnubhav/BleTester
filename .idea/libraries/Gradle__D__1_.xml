@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D (1)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b9177847a1ac42c89393434a6b4c7585/transformed/blazelibrary-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9177847a1ac42c89393434a6b4c7585/transformed/blazelibrary-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9177847a1ac42c89393434a6b4c7585/transformed/blazelibrary-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

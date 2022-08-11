@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D (2)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cf2029d6007706e6dadca7bc3b3c2743/transformed/sonic/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cf2029d6007706e6dadca7bc3b3c2743/transformed/sonic/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cf2029d6007706e6dadca7bc3b3c2743/transformed/sonic/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

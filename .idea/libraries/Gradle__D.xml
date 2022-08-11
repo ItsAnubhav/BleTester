@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: D">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ce3c152366a8a68a77afb93b3a93fb3/transformed/blazeaidl-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ce3c152366a8a68a77afb93b3a93fb3/transformed/blazeaidl-release/jars/libs/bac201_ecgLib_V3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ce3c152366a8a68a77afb93b3a93fb3/transformed/blazeaidl-release/jars/libs/commons-math3-3.3.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ce3c152366a8a68a77afb93b3a93fb3/transformed/blazeaidl-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ce3c152366a8a68a77afb93b3a93fb3/transformed/blazeaidl-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

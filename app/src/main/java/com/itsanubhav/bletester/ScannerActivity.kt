@@ -2,23 +2,20 @@ package com.itsanubhav.bletester
 
 import android.bluetooth.BluetoothDevice
 import android.os.Bundle
-import android.os.Handler
-import android.os.ParcelUuid
 import android.util.Log
-import android.view.MotionEvent
-import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.itsanubhav.bletester.config.Config
 import com.itsanubhav.bletester.databinding.ActivityScannerBinding
 import com.itsanubhav.bletester.ui.scanner.ScannerRVAdapter
+import dagger.hilt.android.AndroidEntryPoint
 import no.nordicsemi.android.support.v18.scanner.*
-import java.util.*
 import kotlin.collections.ArrayList
 
-
+@AndroidEntryPoint
 class ScannerActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
@@ -49,7 +46,7 @@ class ScannerActivity : AppCompatActivity() {
         scannerAdapter = ScannerRVAdapter(applicationContext)
         binding.scanRecyclerView.layoutManager = LinearLayoutManager(this,RecyclerView.VERTICAL,false)
         binding.scanRecyclerView.adapter = scannerAdapter
-
+        startScan()
     }
 
 
@@ -73,11 +70,19 @@ class ScannerActivity : AppCompatActivity() {
             .build()
         val filters: MutableList<ScanFilter> = ArrayList()
         //Add different Device name filter here
-//        filters.add(ScanFilter.Builder().setDeviceName("HT5").build())
-//        filters.add(ScanFilter.Builder().setServiceUuid(ParcelUuid(UUID.fromString("0000f618-0000-1000-8000-00805f9b34fb"))).build())
-//        filters.add(ScanFilter.Builder().set)
+
         scanner.startScan(filters, settings, mScanCallback)
         isScanning = true
+    }
+
+    private fun checkSupportedDeviceName(deviceName : String?) : Boolean{
+        if (deviceName!=null){
+            for (name in Config.supportedDeviceNames)
+                return deviceName.contains(name,true)
+            return false
+        }else{
+            return false
+        }
     }
 
     private val mScanCallback: ScanCallback = object : ScanCallback() {

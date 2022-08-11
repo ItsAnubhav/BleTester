@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/fragment_notifications.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/fragment_dashboard.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/fragment_first.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/fragment_second.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/activity_scanner.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/activity_scanner.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/fragment_home.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-mergeDebugResources-58:/layout/scan_device_item_layout.xml",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/scan_device_item_layout.xml"
+    }
+]

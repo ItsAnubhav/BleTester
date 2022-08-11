@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/drawable_find.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/drawable/find.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_fragment_second.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.itsanubhav.bletester.app-pngs-54:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_activity_scanner.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/activity_scanner.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_fragment_home.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_scan_device_item_layout.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/scan_device_item_layout.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/navigation_nav_graph.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_fragment_first.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/navigation_mobile_navigation.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_fragment_notifications.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.itsanubhav.bletester.app-merged_res-59:/layout_fragment_dashboard.xml.flat",
+        "source": "com.itsanubhav.bletester.app-main-61:/layout/fragment_dashboard.xml"
+    }
+]
